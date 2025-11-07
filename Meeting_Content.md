@@ -36,6 +36,7 @@
 - **Craig:** Available Weekend 2-3 hours+
 - **Edwin:** Available Weekend 6 hours+
 - **Gabriel:** Available Free Weekend 10 hours+
+- **Lazaro:** Available 2 hours weekdays, and 10+ weekend
 - **Responsibilities:**
   - Frontend and backend development
   - API design and implementation
@@ -44,7 +45,7 @@
   - Integration between frontend and backend
 
 #### Data Engineer/Analyst
-- **Names:** Jay, Billy
+- **Names:** Jay, Billy, Lazaro
 - **Availability:** All the time in the world
 - **Responsibilities:**
   - Data pipeline design and implementation
@@ -75,7 +76,8 @@
 | Full-Stack | Craig | Weekend 2-3 hrs+ |
 | Full-Stack | Edwin | Weekend 6 hrs+ |
 | Full-Stack | Gabriel | Free Weekend 10 hrs+ |
-| Data Engineer | Jay, Billy | All the time |
+| Full-Stack | Lazaro | 2 hrs/day, 10+ hrs/weekend
+| Data Engineer | Jay, Billy, Lazaro | All the time |
 | DevOps | Mason, Benson | Weekend: Free |
 
 ---
