@@ -2,7 +2,7 @@
 
 ## 👥 Team Structure (7 Members)
 
-### 1. Project Manager (PM)
+### 1. Project Manager (PM) : Billy (2 hours everyday, 20+ hours weekend )
 **Responsibilities:**
 - Project planning and timeline management
 - Stakeholder communication
@@ -19,49 +19,64 @@
 
 ---
 
-### 2. Frontend Developer
+### 2. Frontend/UI/UX Developer: Anna (Weekend 2-3 hours +)
 **Responsibilities:**
 - User interface development
+- User experience design and optimization
 - Frontend architecture and design
-- User experience implementation
+- User research and personas (if needed)
+- Wireframing and prototyping
+- Visual design and design system creation
 - Frontend testing
 - Performance optimization
 - Cross-browser compatibility
+- Collaboration with developers on implementation
 
 **Technologies (Examples):**
 - React, Vue, Angular, or similar framework
 - HTML/CSS/JavaScript/TypeScript
 - UI component libraries
+- Design tools: Figma, Sketch, Adobe XD
 
 **Key Deliverables:**
 - Frontend codebase
+- UI/UX design mockups and wireframes
 - UI components
+- Design system/component library
 - Frontend tests
 
 ---
 
-### 3. Backend Developer
+### 3. Full-Stack Developer: Alex (Mon, Wed, Fri,Free Weekend), Craig (Weekend 2-3 hours+), Edwin (Weekend: 6hours+), Gabriel (Free Weekend: 10 hours+)
 **Responsibilities:**
+- Frontend and backend development
 - Server-side application development
 - API design and implementation
 - Database interactions
 - Business logic implementation
+- Integration between frontend and backend
+- Full-stack feature implementation
 - Backend security
 - Performance optimization
+- Can assist with design decisions
 
 **Technologies (Examples):**
-- Node.js, Python (Django/Flask), Java, .NET, etc.
+- Frontend: React, Vue, Angular, HTML/CSS/JavaScript/TypeScript
+- Backend: Node.js, Python (Django/Flask), Java, .NET, etc.
 - RESTful or GraphQL APIs
 - Database (PostgreSQL, MongoDB, etc.)
 
 **Key Deliverables:**
+- Full-stack features
 - Backend API
 - Database schema
-- Backend tests
+- Frontend components
+- Integration code
+- Full-stack tests
 
 ---
 
-### 4. Data Engineer/Analyst
+### 4. Data Engineer/Analyst: Jay, Billy (All the time in the world)
 **Responsibilities:**
 - Data pipeline design and implementation
 - Data modeling and database design
@@ -82,7 +97,7 @@
 
 ---
 
-### 5. DevOps Engineer
+### 5. DevOps Engineer: Mason, Benson (Weekend: Free)
 **Responsibilities:**
 - CI/CD pipeline setup and maintenance
 - Infrastructure as Code (IaC)
@@ -130,43 +145,15 @@
 
 ---
 
-### 7. UI/UX Designer (or Full-Stack Developer)
-**Option A - UI/UX Designer:**
-**Responsibilities:**
-- User research and personas
-- Wireframing and prototyping
-- Visual design
-- User experience optimization
-- Design system creation
-- Collaboration with developers
-
-**Tools:**
-- Figma, Sketch, Adobe XD
-- Prototyping tools
-
-**Key Deliverables:**
-- Design mockups
-- User flows
-- Design system/component library
-
-**Option B - Full-Stack Developer (if no dedicated designer):**
-**Responsibilities:**
-- Support both frontend and backend development
-- Integration between frontend and backend
-- Full-stack feature implementation
-- Can assist with design decisions
-
----
-
 ## 🤝 Collaboration Matrix
 
 | Task Type | Lead | Support | Consult |
 |-----------|------|---------|---------|
-| Feature Development | Frontend/Backend Dev | QA | PM, Designer |
-| Data Pipeline | Data Engineer | Backend Dev | PM |
+| Feature Development | Full-Stack Dev | QA | PM, Frontend/UI/UX |
+| Data Pipeline | Data Engineer | Full-Stack Dev | PM |
 | Deployment | DevOps | All Devs | PM |
 | Testing | QA | All Devs | PM |
-| Design | UI/UX Designer | Frontend Dev | PM |
+| Design | Frontend/UI/UX Dev | Full-Stack Dev | PM |
 | Project Planning | PM | All | All |
 
 ---
@@ -197,15 +184,15 @@
 
 ## 📋 RACI Matrix Example
 
-| Activity | PM | Frontend | Backend | Data | DevOps | QA | Designer |
-|----------|----|----------|---------|------|--------|----|----------|
-| Sprint Planning | A | R | R | R | R | R | R |
-| Feature Development | I | A | A | C | I | C | C |
-| Code Review | I | R | R | R | R | R | I |
-| Testing | I | C | C | C | I | A | I |
-| Deployment | I | C | C | I | A | C | I |
-| Data Pipeline | I | I | C | A | C | C | I |
-| Design | I | C | I | I | I | I | A |
+| Activity | PM | Frontend/UI/UX | Full-Stack | Data | DevOps | QA |
+|----------|----|----------------|-----------|------|--------|----|
+| Sprint Planning | A | R | R | R | R | R |
+| Feature Development | I | C | A | C | I | C |
+| Code Review | I | R | R | R | R | R |
+| Testing | I | C | C | C | I | A |
+| Deployment | I | C | C | I | A | C |
+| Data Pipeline | I | I | C | A | C | C |
+| Design | I | A | C | I | I | I |
 
 **Legend:**
 - **A** = Accountable (ultimately responsible)
